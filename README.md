@@ -8,6 +8,8 @@ languages:
 - dotnet core
 ---
 
+![Build .NET Core App](https://github.com/GeneralMillsPoc/dotnet_core_sample/workflows/Build%20.NET%20Core%20App/badge.svg)
+
 # Sample ASP.NET Core application for GitHub Actions
 
 For all samples to set up GitHub workflows, see [Create your first workflow](https://github.com/Azure/actions-workflow-samples
