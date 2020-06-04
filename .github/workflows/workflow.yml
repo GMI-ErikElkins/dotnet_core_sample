@@ -40,4 +40,3 @@ jobs:
       - name: Unzip Artifact
         run: |
           ls -l
-          unzip -d .build/ website.zip
